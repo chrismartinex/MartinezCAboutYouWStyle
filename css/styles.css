@@ -1,0 +1,27 @@
+body{
+ background-color: rgb(174, 246, 210);
+}
+
+body {
+ color: rgb(255, 255, 255);
+ position: absolute; left: 80px; top: 20px;
+}
+h1
+{
+ color: black;
+}
+h2
+{
+ position: absolute; left: 50px; top: 20px;  
+ color: red;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.aboutme {
+ border-style: solid;
+ background-color: rgb(164, 197, 243);
+ position: absolute; right: -870px; top: 101px;
+ font-size: larger;
+ font-weight: bold;
+ font-style: oblique;
+ color: black;
+}
